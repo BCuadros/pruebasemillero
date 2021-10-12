@@ -1,0 +1,9 @@
+estos son los pasos para crear repositorio
+crear repositorio en la pagina de git
+luego en consola:
+git clone https://github.com/BCuadros/pruebasemillero.git
+git add sesion2.txt
+git commit -m "prueba de subir un repositorio en la segunda sesion de clase"
+git push
+...
+...
